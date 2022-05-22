@@ -19,14 +19,17 @@ postDateFormat = "2006-1-2" # override custom date format posts.
 [menu]
 # Shown in the side menu.
   [[menu.main]]
+  name = "Portfolio"
+  url = "https://osamaahmed.com"
+  [[menu.main]]
     name = "Posts"
-    weight = 1
+    weight = 2
     identifier = "post"
     url = "/post/"
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
 
 
 [social]
