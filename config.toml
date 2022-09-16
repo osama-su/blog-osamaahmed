@@ -8,7 +8,7 @@ googleAnalytics = "UA-1234567890" # or "G-xxxxxxxx" in Google Analytics v4, in h
 
 [params]
 description = """
-Tokiwa-iro is the theme color of this site.
+I'm a software engineer, I love to build things and solve problems.
 """
 math = true # for introducing $KaTEX$
 env = "production" # for Google Analytics and DISQUS.
