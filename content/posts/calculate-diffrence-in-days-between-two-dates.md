@@ -1,6 +1,6 @@
 ---
 title: "Calculate diffrence in days between two dates"
-date : 2022-09-17T12:16:25+02:00
+date : 2022-09-17
 draft: false
 ---
 
